@@ -1,0 +1,26 @@
+{
+    "name": "edu-project",
+    "version": "1.0.0",
+    "description": "Education project",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "debug": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alex-melnyk/edu-project.git"
+    },
+    "author": "Labracode",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alex-melnyk/edu-project/issues"
+    },
+    "homepage": "https://github.com/alex-melnyk/edu-project#readme",
+    "dependencies": {
+        "express": "^4.15.3"
+    },
+    "devDependencies": {
+        "opn": "^5.1.0"
+    }
+}
